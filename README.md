@@ -53,7 +53,7 @@ Je suis Kertie2_, un développeur passionné spécialisé dans le développement
 
 ## 📫 Me contacter
 
-- 🌐 [Portfolio](https://example.com)
+- 🌐 [Portfolio](https://antaria.ovh)
 - ✉️ Email : contact@antaria.ovh
 - 📱 Discord : kertie2_
 - 💬 Toujours ouvert pour discuter de projets collaboratifs ou d'idées tech !
