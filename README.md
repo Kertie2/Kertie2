@@ -16,6 +16,13 @@ Je suis Kertie2_, un développeur passionné spécialisé dans le développement
 
 ---
 
+## 📊 Mes Statistiques GitHub
+
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Kertie2&show_icons=true&theme=radical)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Kertie2&layout=compact&theme=radical)
+
+---
+
 ## 🛠️ Mes compétences
 
 ### Langages et Frameworks
